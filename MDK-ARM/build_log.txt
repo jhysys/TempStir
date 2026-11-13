@@ -1,0 +1,9 @@
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'E:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'TempStirV1.0'
+compiling App_Oled.c...
+User/Menu/App_Oled.c(655): error:  #44: expression must have pointer type
+              invert = (view->Focus == (SysFocus_t)idx) ? 1u : 0u;
+User/Menu/App_Oled.c: 0 warnings, 1 error
+"TempStirV1.0\TempStirV1_0.axf" - 1 Error(s), 0 Warning(s).
+Target not created.
+Build Time Elapsed:  00:00:03
